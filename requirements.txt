@@ -103,7 +103,7 @@ pydash==5.1.0
 Pygments==2.11.2
 pymdown-extensions==9.3
 pyparsing==3.0.7
-pyrsistent==0.18.1←[0K
+pyrsistent==0.18.1
 pyserial==3.5
 python-can==4.0.0
 python-dateutil==2.8.2
@@ -158,7 +158,7 @@ tornado==6.1
 traitlets==5.1.1
 typing-extensions==4.1.1
 unify==0.5
-untokenize==0.1.1←[0K
+untokenize==0.1.1
 urllib3==1.24.2
 vin-parser==0.0.1
 watchdog==2.1.7
