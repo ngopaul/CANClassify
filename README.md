@@ -3,10 +3,15 @@
 Implementation of CANClassify, as discussed in "CANClassify: Automated Decoding and Labeling of CAN Bus Signals"
 
 Paul Ngo and Jonathan Sprinkle and Rahul Bhadani
+
 EECS Department, University of California, Berkeley
+
 Technical Report No. UCB/EECS-2022-151
+
 May 20, 2022
+
 Report can be found [here](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-151.html).
+
 Abstract:
 Controller Area Network (CAN) bus data is used on most vehicles today to report and communicate sensor data. However, this data is generally encoded and is not directly
 interpretable by simply viewing the raw data on the bus. However, it is possible to decode CAN bus data and reverse engineer the encodings by leveraging knowledge about
